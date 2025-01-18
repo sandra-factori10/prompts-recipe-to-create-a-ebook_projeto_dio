@@ -21,7 +21,7 @@ seguem abaixo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [MidJourney](https://www.midjourney.com/app/)
-
+- [Canva](https://www.canva.com/pt_br/gerador-imagem-ia/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -31,8 +31,9 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema Consórcio Imobiliário, o ebook é do nicho de vendas e investimento, liste 5 sugestões de títulos que devem ser curtos e enxutos mas que traga como idéia central que o Consórcio é um investimento muito mais que comprar uma casa. 
+                                                        |
+| conteúdo | Faça um texto para ebook , com foco em Consórcio Imobiliário, listando 05 razões para utilizar o consórcio como investimento deverá conter 5 dicas ou motivos ao cliente ou ao vendedor porque o consórcio é uma das melhores maneiras de se investir em imóveis. {REGRAS} Explique sempre de uma maneira simples com exemplos.|
 
 
 Midjourney：

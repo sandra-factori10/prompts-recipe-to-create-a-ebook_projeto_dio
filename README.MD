@@ -36,14 +36,22 @@ ChatGPT：
 
 Midjourney：
 
-\imagine prompt an image of a business woman or man and hands putting coins into a piggy bank in the shape of a house in high cinematic resolution
+|  Ação  | prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
+| título | \imagine prompt an image of a business woman or man and hands putting coins into a piggy bank in the shape of a house in high cinematic resolution |
 
-\imagine prompt an image of a business woman or man and hands putting coins into a piggy bank in the shape of a house in high cinematic resolution
+Canvas:：
+
+|  Ação  | prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
+| título |\imagine prompt an art image for ebook cover image only and it should have an image of a modern house and investment funds, money or coins and a business woman or 
+          man thinking about stocks or real estate investment funds in digital art style
+
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via MidJourney e Canvas
 
 ## 📚 Materiais
 
@@ -52,7 +60,7 @@ Midjourney：
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e utilizei uma ferramenta de edição de documentos como power point para diagramação.
 
 ## 👨‍💻 Expert
 

@@ -32,14 +32,13 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema Consórcio Imobiliário, o ebook é do nicho de vendas e investimento, liste 5 sugestões de títulos que devem ser curtos e enxutos mas que traga como idéia central que o Consórcio é um investimento muito mais que comprar uma casa. 
-                                                        |
-| conteúdo | Faça um texto para ebook, com foco em Consórcio Imobiliári e liste 05 razões para utilizar o consórcio como investimento deverá conter 5 dicas ou motivos  porque o consórcio é uma das melhores maneiras de se investir em imóveis. {REGRAS} liste exemplos
+| conteúdo | Faça um texto para ebook, com foco em Consórcio Imobiliári e liste 05 razões para utilizar o consórcio como investimento deverá conter 5 dicas ou motivos  porque o consórcio é uma das melhores maneiras de se investir em imóveis. {REGRAS} liste exemplos para cada razão 
 
 Midjourney：
 
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+\imagine prompt an image of a business woman or man and hands putting coins into a piggy bank in the shape of a house in high cinematic resolution
+
+\imagine prompt an image of a business woman or man and hands putting coins into a piggy bank in the shape of a house in high cinematic resolution
 
 ## ✨ Features
 

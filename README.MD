@@ -4,8 +4,7 @@
 
 ------
 
-<p align="center">
-#Projeto EBOOK Gerado por I.A.s
+
 <p align="center">
 <img 
     src="./assets/covers.png"

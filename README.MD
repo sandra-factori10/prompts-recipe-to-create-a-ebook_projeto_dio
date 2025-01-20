@@ -10,9 +10,9 @@
 
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso ## DIO - Bootcamp CAIXA IA Generativa com Microsoft Copilot no qual fui aprendiz do expert [Felipe Aguiar](https://github.com/felipeAguiarCode) na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso ## DIO - Bootcamp CAIXA IA Generativa com Microsoft Copilot no qual eu [Sandra Factori](https://github.com/sandra-factori10) fui aprendiz do expert [Felipe Aguiar](https://github.com/felipeAguiarCode) na plataforma da [DIO](https://dio.me) para desenvolver um projeto de construção de um Ebook na qual utilizei o assunto Consórcio sobre um prisma relacionado a investimentos.
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA e todos os prompts
 seguem abaixo.
 
 <a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
@@ -31,8 +31,8 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema Consórcio Imobiliário, o ebook é do nicho de vendas e investimento, liste 5 sugestões de títulos que devem ser curtos e enxutos mas que traga como idéia central que o Consórcio é um investimento muito mais que comprar uma casa. 
-| conteúdo | Faça um texto para ebook, com foco em Consórcio Imobiliári e liste 05 razões para utilizar o consórcio como investimento deverá conter 5 dicas ou motivos  porque o consórcio é uma das melhores maneiras de se investir em imóveis. {REGRAS} liste exemplos para cada razão 
+|  título  | Crie um título de um ebook sobre o tema Consórcio Imobiliário, o ebook é do nicho de vendas e investimento, liste 5 sugestões de títulos que devem ser curtos e enxutos mas que traga como idéia central sobre o Consórcio como um investimento muito mais que comprar uma casa. 
+| conteúdo | Faça um texto para ebook, com foco em Consórcio Imobiliári e liste 05 razões para utilizar o consórcio como investimento e deverá conter 5 dicas ou motivos  porque o consórcio é uma das melhores maneiras de se investir em imóveis. {REGRAS} liste exemplos para cada motivo ou dicas
 
 Midjourney：
 
@@ -40,7 +40,7 @@ Midjourney：
 | :----: | -------------------------------------------------------------------------------------- |
 | título | \imagine prompt an image of a business woman or man and hands putting coins into a piggy bank in the shape of a house in high cinematic resolution |
 
-Canvas:：
+Canvas:
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |

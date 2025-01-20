@@ -65,6 +65,6 @@ Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e
 - Objetivo me atualizar no mundo de TI na qual sou graduada há 18 anos mas que possuo uma longa carreira como Gerente de Varejo e Negócios dentro da CAIXA quando ingressei em 2006.
 - Objetivo aprender como utilizar a(s) Inteligência(s) Artificial(ais) Generativa(s) e suas ferramentas para os agregar conhecimento nos negócios e a Transformação Digital mas que no íntimo deseja resgatar e seguir novos rumos em TI dentro da CAIXA. 
 
-[Sandra no Linkedin]<a href="www.linkedin.com/in/sandrafactori10">LinkedIn</a>
+ℹ️ <a href="www.linkedin.com/in/sandrafactori10">LinkedIn</a>
 
-por [Sandra Factori](https://github.com/sandra-factori10)
+Abraços [Sandra Factori](https://github.com/sandra-factori10)

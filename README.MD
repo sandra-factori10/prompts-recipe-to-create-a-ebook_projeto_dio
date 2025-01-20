@@ -61,8 +61,9 @@ Canvas:
 
 Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e utilizei uma ferramenta de edição de documentos como power point para diagramação.
 
-⌨️ Eu sou a aprendiz [Sandra Factori](https://github.com/sandra-factori10)me atualizando no mundo de TI na qual sou graduada mas que possui uma longa carreira como Gerente de Varejo e Negócios dentro da CAIXA
-Aprendendo como utilizar a Inteligência Artificial Generativa para agregar nos negócios e ou quem sabe seguir novos rumos em TI.
+⌨️ Eu sou a aprendiz [Sandra Factori](https://github.com/sandra-factori10) e abaixo um pouco sobre minha experiência:
+- Objetivo me atualizar no mundo de TI na qual sou graduada há 18 anos mas que possuo uma longa carreira como Gerente de Varejo e Negócios dentro da CAIXA quando ingressei em 2006.
+- Objetivo aprender como utilizar a(s) Inteligência(s) Artificial(ais) Generativa(s) e suas ferramentas para os agregar conhecimento nos negócios e a Transformação Digital mas que no íntimo deseja resgatar e seguir novos rumos em TI dentro da CAIXA. 
 
 <a href="www.linkedin.com/in/sandrafactori10">LinkedIn</a>
 

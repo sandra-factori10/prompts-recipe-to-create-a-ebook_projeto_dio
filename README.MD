@@ -10,10 +10,10 @@
 
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso ## DIO - Bootcamp CAIXA IA Generativa com Microsoft Copilot no qual eu [Sandra Factori](https://github.com/sandra-factori10) fui aprendiz do expert [Felipe Aguiar](https://github.com/felipeAguiarCode) na plataforma da [DIO](https://dio.me) para desenvolver um projeto de construção de um Ebook na qual utilizei o assunto Consórcio sobre um prisma relacionado a investimentos.
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso ## DIO - Bootcamp CAIXA IA Generativa com Microsoft Copilot no qual eu [Sandra Factori](https://github.com/sandra-factori10) fui aprendiz do expert [Felipe Aguiar](https://github.com/felipeAguiarCode) na plataforma da [DIO](https://dio.me) 
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA e todos os prompts
-seguem abaixo.
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA para desenvolver um projeto de construção de um Ebook na qual utilizei o tema Consórcio sobre um prisma relacionado a investimentos
+Segue todos os prompts abaixo:
 
 <a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 

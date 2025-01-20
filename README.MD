@@ -38,14 +38,13 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | \imagine prompt an image of a business woman or man and hands putting coins into a piggy bank in the shape of a house in high cinematic resolution |
+| título | \imagine prompt an image of a business woman or man and hands putting coins into a piggy bank in the shape of a house in high cinematic resolution
 
 Canvas:
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título |\imagine prompt an art image for ebook cover image only and it should have an image of a modern house and investment funds, money or coins and a business woman or 
-          man thinking about stocks or real estate investment funds in digital art style
+| título |\imagine prompt an art image for ebook cover image only and it should have an image of a modern house and investment funds, money or coins and a business woman or man thinking about stocks or real estate investment funds in digital art style
 
 
 ## ✨ Features

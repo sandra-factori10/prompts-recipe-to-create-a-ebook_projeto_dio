@@ -61,25 +61,9 @@ Canvas:
 
 Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e utilizei uma ferramenta de edição de documentos como power point para diagramação.
 
-## 👨‍💻 Expert
+⌨️ Eu sou a aprendiz [Sandra Factori](https://github.com/sandra-factori10)me atualizando no mundo de TI na qual sou graduada mas que possui uma longa carreira como Gerente de Varejo e Negócios dentro da CAIXA
+Aprendendo como utilizar a Inteligência Artificial Generativa para agregar nos negócios e ou quem sabe seguir novos rumos em TI.
 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/sandrafactori10">LinkedIn</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
+<a href="www.linkedin.com/in/sandrafactori10">LinkedIn</a>
 
----
-
-⌨️ com 💜 por [Sandra Factori](https://github.com/felipeAguiarCode)
+por [Sandra Factori](https://github.com/sandra-factori10)

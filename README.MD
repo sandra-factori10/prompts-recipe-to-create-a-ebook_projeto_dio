@@ -2,6 +2,8 @@
 <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
 <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
 
+------
+
 <p align="center">
 #Projeto EBOOK Gerado por I.A.s
 <p align="center">
@@ -12,6 +14,7 @@
 </p>
 
 
+# Projeto EBOOK Gerado por I.A.s
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso ## DIO - Bootcamp CAIXA IA Generativa com Microsoft Copilot no qual eu [Sandra Factori](https://github.com/sandra-factori10) fui aprendiz do expert [Felipe Aguiar](https://github.com/felipeAguiarCode) na plataforma da [DIO](https://dio.me) 

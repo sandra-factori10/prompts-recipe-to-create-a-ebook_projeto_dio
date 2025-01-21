@@ -72,5 +72,6 @@ Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e
 - Objetivo aprender como utilizar a(s) Inteligência(s) Artificial(ais) Generativa(s) e suas ferramentas para os agregar conhecimento nos negócios e a Transformação Digital mas que no íntimo deseja resgatar e seguir novos rumos em TI dentro da CAIXA. 
 
 ℹ️ <a href="www.linkedin.com/in/sandrafactori10">LinkedIn</a>
+<a href="https://www.linkedin.com/posts/sandrafactori10_ebook-cons%C3%B3rcio-imobili%C3%A1rio-um-investimento-activity-7287271149393108992-y1d2?utm_source=share&utm_medium=member_desktop"> 📕Clique aqui para ver publicação    </a>   
 
 Abraços [Sandra Factori](https://github.com/sandra-factori10)
